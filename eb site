@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Licensed General Contractor in Arizona - Residential & Commercial Builds, Rentals, and Fix & Flips." />
+  <title>EB Developments LLC | Arizona General Contractor</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header, footer { background: #1f1f1f; color: #fff; padding: 1.5em 2em; text-align: center; }
+    nav ul { list-style: none; display: flex; justify-content: center; flex-wrap: wrap; padding: 0; }
+    nav ul li { margin: 0 20px; }
+    nav ul li a { color: #fff; text-decoration: none; font-weight: bold; }
+    .container { padding: 3em 1.5em; max-width: 1200px; margin: auto; }
+    .cta { background: #007bff; color: #fff; padding: 2em; text-align: center; margin: 3em 0; border-radius: 8px; }
+    .cta a { color: #fff; text-decoration: none; font-weight: bold; font-size: 1.2em; }
+    .project, .service { margin-bottom: 2.5em; }
+    .service h3, .project h3 { color: #007bff; }
+    form { display: flex; flex-direction: column; gap: 12px; max-width: 500px; margin: auto; background: #f8f8f8; padding: 2em; border-radius: 10px; }
+    input, textarea { padding: 12px; font-size: 1em; border: 1px solid #ccc; border-radius: 6px; }
+    button { background: #007bff; color: white; padding: 12px; border: none; border-radius: 6px; font-size: 1em; cursor: pointer; }
+    button:hover { background: #0056b3; }
+    h2 { margin-top: 1.5em; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EB Developments LLC</h1>
+    <p>Licensed General Contractor | Residential & Commercial Builds | Rentals | Investments | Call us: <a href="tel:4808284204" style="color: #fff; text-decoration: underline;">480-828-4204</a></p>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="container">
+    <section id="about">
+      <h2>About Us</h2>
+      <p>EB Developments LLC is a licensed general contractor based in Arizona, specializing in residential and commercial construction, rentals, and investment flips. we deliver high-quality, profitable projects on time. Our mission is to build value-driven real estate that benefits homeowners, business owners, and investors alike.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <div class="service">
+        <h3>Residential Builds</h3>
+        <p>We construct high-quality single-family homes that reflect modern design, energy efficiency, and long-term value. From planning to final walkthrough, we handle it all.</p>
+      </div>
+      <div class="service">
+        <h3>Commercial Construction</h3>
+        <p>From tenant improvements to new commercial buildings, we help businesses expand with well-planned, durable, and code-compliant builds.</p>
+      </div>
+      <div class="service">
+        <h3>Build-to-Rent Projects</h3>
+        <p>Designed with landlords in mind, our build-to-rent homes and commercial spaces are optimized for durability, cash flow, and low maintenance costs.</p>
+      </div>
+      <div class="service">
+        <h3>Fix & Flip Renovations</h3>
+        <p>We identify undervalued properties, renovate them to a high standard, and resell quickly for strong returns—ideal for short-term investors and partnerships.</p>
+      </div>
+    </section>
+
+    <section id="projects">
+  <h2>Our Work</h2>
+  <p>Explore how EB Developments LLC combines expert design, reliable construction, and investor-focused strategy across residential and commercial projects.</p>
+
+  <div class="project">
+    <h3>Monterey Way – Phoenix</h3>
+    <p><strong>Scope:</strong> Ground-up residential build<br>
+    <strong>Size:</strong> 2,100 sqft | 4 Bed, 3 Bath<br>
+    <strong>Result:</strong> Sold for $485K | Net Profit: $125K</p>
+  </div>
+
+  <div class="project">
+    <h3>San Tan Valley Rental</h3>
+    <p><strong>Scope:</strong> Build-to-Rent single-family unit<br>
+    <strong>Size:</strong> 1,800 sqft | 3 Bed, 2 Bath<br>
+    <strong>Result:</strong> Estimated Monthly Cash Flow: $2,100</p>
+  </div>
+
+  <div class="project">
+    <h3>Downtown Mesa Duplex Conversion</h3>
+    <p><strong>Scope:</strong> Residential to commercial duplex upgrade<br>
+    <strong>Size:</strong> 2,400 sqft total | 2 Units<br>
+    <strong>Result:</strong> Increased rental income by 40% post-conversion</p>
+  </div>
+
+  
+</section>
+
+    <div class="cta">
+      <p>Ready to build, invest, or partner with EB Developments? <a href="#contact">Let’s Talk</a></p>
+    </div>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <form>
+        <input type="text" name="name" placeholder="Your Name" required />
+        <input type="email" name="email" placeholder="Your Email" required />
+        <input type="tel" name="phone" placeholder="Your Phone Number" />
+        <textarea name="message" placeholder="Tell us about your project or question" rows="5"></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </div>
+
+  <footer>
+    <p>© 2025 EB Developments LLC. Licensed GC in Arizona. ROC 351394. All rights reserved.</p>
+  </footer>
+</body>
+</html>
